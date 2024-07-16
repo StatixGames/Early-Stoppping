@@ -1,5 +1,5 @@
 # Early-Stoppping
-An AI chatbot that helps users create travel plans.
+An AI travel planner that helps users experience the best vocation ever
 
 # LINK TO DEMO
 https://early-stopping-puv042.flutterflow.app/
